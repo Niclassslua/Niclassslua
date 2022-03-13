@@ -30,7 +30,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects** -->
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I use:
 
 <br>
 
@@ -54,7 +54,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
 <br>
 
