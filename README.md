@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
-- 📫 How to reach me **Niclassslua@gmail.com**
+- 📫 Discord: **Niclasss#0962**
 
 ## 🚀 Languages and Tools:
 
