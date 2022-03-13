@@ -51,7 +51,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/></a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/></a>
-    <a href="https://www.maxon.net/cinema-4d/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/cinema-4d.png"/></a>
+    <a href="https://www.maxon.net/cinema-4d/" target="_blank"> <img src="https://i.imgur.com/bfFeTAu.png"/></a>
     <a href="https://discord.gg/BxfKHkk/" target="_blank"> <img src="https://i.imgur.com/sVFn4xy.png"/></a>
     <a href="https://zmodeler3.com/index.php/" target="_blank"> <img src="https://i.imgur.com/JOKcWYf.png"/></a>
 </p>
