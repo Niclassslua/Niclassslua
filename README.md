@@ -1,15 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/8QlGGfB.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br><br>I'm Niclassslua</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm Niclassslua</h1>
 <h3 align="center">I'm a Developer from Germany.</h3>
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Niclassslua&style=flat-square&color=blue" alt=""></p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Niclassslua&style=flat-square&color=blue" alt="">
+</p>
 
-<p align="center"> <a href="https://www.discordapp.com/users/300310784913702914">
-    <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
-</a></p>
+<p align="center"> 
+    <a href="https://www.discordapp.com/users/300310784913702914">
+        <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
+    </a>
+</p>
 
 <p align="center"> <a href="https://github.com/Niclassslua?tab=followers"><img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
