@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
-- 📫 Discord: **Niclasss#0962**
+<img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
 
 ## 🚀 Languages and Tools:
 
