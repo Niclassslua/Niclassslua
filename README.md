@@ -7,16 +7,16 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Niclassslua&style=flat-square&color=blue" alt=""></p>
 
+<a href="https://www.discordapp.com/users/300310784913702914">
+    <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
+</a>
+
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
-
-<a href="discordapp.com/users/300310784913702914">
-    <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
-</a>
 
 ## 🚀 Languages and Tools:
 
