@@ -12,6 +12,8 @@
 
 - 📫 Discord: **Niclasss#0962**
 
+<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
