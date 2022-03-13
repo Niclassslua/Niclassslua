@@ -12,11 +12,11 @@
 </a></p>
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
+- 👯 I’m looking to collaborate on **OpenSource FiveM Projects** -->
 
 ## 🚀 Languages and Tools:
 
