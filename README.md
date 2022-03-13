@@ -50,14 +50,5 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://twitter.com/Niclassslua"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Itz.Celyrian/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://linktr.ee/Niclassslua"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
-
-</p>
-
 ## ❤ Followers
 <a href="https://github.com/Niclassslua?tab=followers"><img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge"></a>
