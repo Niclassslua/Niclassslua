@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niclassslua</h1>
 <h3 align="center">I'm a Developer from Germany.</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Niclassslua&style=flat-square&color=blue" alt=""></p>
+
 
 ## 🙋‍♂️ About Me
 
@@ -11,8 +13,6 @@
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
 - 📫 Discord: **Niclasss#0962**
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Niclassslua&style=flat-square&color=blue" alt=""></p>
 
 ## 🚀 Languages and Tools:
 
