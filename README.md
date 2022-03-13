@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Niclasss#0962"/>
 </a></p>
 
+<p align="center"> <a href="https://github.com/Niclassslua?tab=followers"><img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge"></a></p>
+
 
 <!-- ## 🙋‍♂️ About Me
 
@@ -56,6 +58,3 @@
 
 <br/>
 <br/>
-
-## ❤ Followers
-<a href="https://github.com/Niclassslua?tab=followers"><img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge"></a>
