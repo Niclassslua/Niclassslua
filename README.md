@@ -1,8 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/8QlGGfB.png" height="175px"/></a>
 
+<br>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>I'm Niclassslua</h1>
 <h3 align="center">I am a Developer from Germany        🇩🇪 </h3>
 
+<br>
 <br>
 
 <p align="center">
