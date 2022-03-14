@@ -35,12 +35,12 @@
 <br>
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org//" target="_blank"> <img src="https://i.imgur.com/YEKjri4.png"/> </a> 
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://i.imgur.com/YEKjri4.png"/> </a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://i.imgur.com/If2VIGT.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://nodejs.org/" target="_blank"> <img src="https://i.imgur.com/SAslecQ.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://i.imgur.com/E7iLaGi.png"/> </a>
 </p>
