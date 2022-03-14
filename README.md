@@ -35,17 +35,21 @@
 <br>
 <br>
 
-<p align="center"> 
-    <!-- <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<!-- <<p align="center"> 
+    a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://i.imgur.com/YEKjri4.png"/> </a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://i.imgur.com/If2VIGT.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/hnbGm3y.png"/> </a> 
     <a href="https://nodejs.org/" target="_blank"> <img src="https://i.imgur.com/SAslecQ.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://i.imgur.com/E7iLaGi.png"/> </a> -->
+    <a href="https://www.php.net/" target="_blank"> <img src="https://i.imgur.com/E7iLaGi.png"/> </a>
+</p> -->
 
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,lua,mysql,nodejs,php"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim**" />
+  </a>
 </p>
 
 <br>
