@@ -34,7 +34,7 @@
 
 <br>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -47,7 +47,7 @@
 
 <br>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/></a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/></a>
@@ -62,11 +62,12 @@
 ## 📊 My Github Stats:
 
 <br>
+<br>
 
-  <br>
-    <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a>
-  <br>
+    <p align="center"><a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+
+    <p align="center"><a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a></p>
+<br>
   <b>Note:</b> The top languages are merely a measure of the languages used in my public code and do not indicate experience or skill level.
 
 
@@ -74,14 +75,14 @@
 <br>
 <br>
 
-<a href="https://github.com/Niclassslua/github-readme-streak-stats">
+<p align="center"><a href="https://github.com/Niclassslua/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niclassslua's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Niclassslua&theme=black-ice&hide_border=true&stroke=0000&background=0D1118"/>
-</a>
+</a></p>
 
 <br>
 <br>
 
-<a href="https://github.com/Niclassslua/github-readme-activity-graph"><img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/Niclassslua/github-readme-activity-graph"><img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
 <br>
 <br>
