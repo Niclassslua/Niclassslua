@@ -90,6 +90,11 @@
 
 <br>
 <br>
+
+<a href="https://github.com/aviortheking/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api?username=niclassslua" />
+</a>
+
 <br>
 <br>
 
