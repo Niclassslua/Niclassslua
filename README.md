@@ -30,7 +30,11 @@
     </a>
 </p>
 
-<p align="center"> <a href="https://github.com/Niclassslua?tab=followers"><img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<p align="center">
+    <a href="https://github.com/Niclassslua?tab=followers">
+        <img src="https://img.shields.io/github/followers/Niclassslua?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
 
 <br>
 <br>
@@ -48,15 +52,40 @@
 <br>
 <br>
 
-<p align="center"> 
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://i.imgur.com/YEKjri4.png"/> </a> 
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://i.imgur.com/If2VIGT.png"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/hnbGm3y.png"/> </a> 
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://i.imgur.com/SAslecQ.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://i.imgur.com/E7iLaGi.png"/> </a>
+<p align="center">
+    
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    </a>
+    
+    <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    </a>
+    
+    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    </a>
+    
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://i.imgur.com/YEKjri4.png"/>
+    </a>
+    
+    <a href="https://www.lua.org/" target="_blank">
+        <img src="https://i.imgur.com/If2VIGT.png"/>
+    </a>
+    
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://i.imgur.com/hnbGm3y.png"/>
+    </a>
+    
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://i.imgur.com/SAslecQ.png"/>
+    </a>
+    
+    <a href="https://www.php.net/" target="_blank">
+        <img src="https://i.imgur.com/E7iLaGi.png"/>
+    </a>
+    
 </p>
 
 <!-- <p align="center">
@@ -67,13 +96,32 @@
 
 <br>
 
-<p align="center"> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/></a>
-    <a href="https://www.adobe.com/products/photoshop.html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/></a>
-    <a href="https://www.maxon.net/cinema-4d/" target="_blank"> <img src="https://i.imgur.com/bfFeTAu.png"/></a>
-    <a href="https://discord.gg/BxfKHkk/" target="_blank"> <img src="https://i.imgur.com/sVFn4xy.png"/></a>
-    <a href="https://zmodeler3.com/index.php/" target="_blank"> <img src="https://i.imgur.com/JOKcWYf.png"/></a>
+<p align="center">
+    
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    </a>
+    
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
+    </a>
+    
+    <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
+        <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
+    </a>
+    
+    <a href="https://www.maxon.net/cinema-4d/" target="_blank">
+        <img src="https://i.imgur.com/bfFeTAu.png"/>
+    </a>
+    
+    <a href="https://discord.gg/BxfKHkk/" target="_blank">
+        <img src="https://i.imgur.com/sVFn4xy.png"/>
+    </a>
+    
+    <a href="https://zmodeler3.com/index.php/" target="_blank">
+        <img src="https://i.imgur.com/JOKcWYf.png"/>
+    </a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -85,7 +133,8 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/Niclassslua/github-readme-stats">
+        <img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
@@ -94,7 +143,8 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" />
+    <a href="https://github.com/Niclassslua/github-readme-stats">
+        <img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118"/>
     </a>
 </p>
 
@@ -117,7 +167,11 @@
 <br>
 <br>
 
-<p align="center"><a href="https://github.com/Niclassslua/github-readme-activity-graph"><img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1118&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center">
+    <a href="https://github.com/Niclassslua/github-readme-activity-graph">
+        <img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1118&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+    </a>
+</p>
 
 <br>
 <br>
