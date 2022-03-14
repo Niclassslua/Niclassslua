@@ -1,12 +1,20 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/8QlGGfB.png" height="175px"/></a> -->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/KAucgGZ.png" height="630px"/></a>
+<img width="100%" height="auto" src="https://i.imgur.com/KAucgGZ.png" height="630px"/>
 
 <br>
 <br>
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px"> <br><!-- I'm Niclassslua --><br><br></p>
-<b><h3 align="center">I am a Developer from Germany 🇩🇪 </h3></b>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
+</p>
+
+<br>
+<br>
+<br>
+
+<b>
+    <h3 align="center">I am a Developer from Germany 🇩🇪 </h3>
+</b>
 
 <br>
 <br>
