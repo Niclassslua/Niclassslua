@@ -56,31 +56,24 @@
     <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     </a>
-    
     <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     </a>
-    
     <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     </a>
-    
     <a href="https://www.python.org/" target="_blank">
         <img src="https://i.imgur.com/YEKjri4.png"/>
     </a>
-    
     <a href="https://www.lua.org/" target="_blank">
         <img src="https://i.imgur.com/If2VIGT.png"/>
     </a>
-    
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://i.imgur.com/hnbGm3y.png"/>
     </a>
-    
     <a href="https://nodejs.org/" target="_blank">
         <img src="https://i.imgur.com/SAslecQ.png"/>
     </a>
-    
     <a href="https://www.php.net/" target="_blank">
         <img src="https://i.imgur.com/E7iLaGi.png"/>
     </a>
@@ -98,23 +91,18 @@
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     </a>
-    
     <a href="https://visualstudio.microsoft.com/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
     </a>
-    
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
         <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
     </a>
-    
     <a href="https://www.maxon.net/cinema-4d/" target="_blank">
         <img src="https://i.imgur.com/bfFeTAu.png"/>
     </a>
-    
     <a href="https://discord.gg/BxfKHkk/" target="_blank">
         <img src="https://i.imgur.com/sVFn4xy.png"/>
     </a>
-    
     <a href="https://zmodeler3.com/index.php/" target="_blank">
         <img src="https://i.imgur.com/JOKcWYf.png"/>
     </a>
