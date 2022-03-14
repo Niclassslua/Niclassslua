@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px"> <br><!-- I'm Niclassslua --><br><br></h1>
+<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px"> <br><!-- I'm Niclassslua --><br><br></p>
 <br>
 <!-- <h3 align="center">I am a Developer from Germany        🇩🇪 </h3>
 
