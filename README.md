@@ -64,13 +64,22 @@
 <br>
 <br>
 
-    <p align="center"><a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center">
+    <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niclassslua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
 
-    <p align="center"><a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a></p>
+<p align="center">
+    <a href="https://github.com/Niclassslua/github-readme-stats"><img alt="Niclassslua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclassslua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" />
+    </a>
+</p>
+
 <br>
-  <b>Note:</b> The top languages are merely a measure of the languages used in my public code and do not indicate experience or skill level.
+
+<b>Note:</b> The top languages are merely a measure of the languages used in my public code and do not indicate experience or skill level.
 
 
+<br>
 <br>
 <br>
 <br>
