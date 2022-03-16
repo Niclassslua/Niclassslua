@@ -142,15 +142,6 @@
 <br>
 <br>
 
-<p align="center"><a href="https://github.com/Niclassslua/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niclassslua's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Niclassslua&theme=black-ice&hide_border=true&stroke=0000&background=0D1118"/>
-</a></p>
-
-<br>
-<br>
-<br>
-<br>
-
 <p align="center">
     <a href="https://github.com/Niclassslua/github-readme-activity-graph">
         <img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1118&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
