@@ -98,6 +98,9 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
     </a>
+    <a href="https://eclipse.org/" target="_blank">
+        <img src="https://i.imgur.com/JUk1HNk.png"/>
+    </a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
         <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
     </a>
