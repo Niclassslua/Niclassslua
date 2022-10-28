@@ -78,6 +78,9 @@
     <a href="https://www.php.net/" target="_blank">
         <img src="https://i.imgur.com/E7iLaGi.png"/>
     </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://i.imgur.com/tUlvNS8.png"/>
+    </a>
 </p>
 
 <!-- <p align="center">
