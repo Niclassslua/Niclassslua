@@ -42,11 +42,11 @@
 <br>
 
 
-<!-- ## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **OpenSource FiveM Projects** -->
+- 👯 I’m looking to collaborate on **Open Source Lua Projects**
 
 ## 🚀 Languages and Tools I use:
 
