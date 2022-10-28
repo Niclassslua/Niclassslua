@@ -79,7 +79,7 @@
         <img src="https://i.imgur.com/E7iLaGi.png"/>
     </a>
     <a href="https://www.java.com/" target="_blank">
-        <img src="https://i.imgur.com/tUlvNS8.png"/>
+        <img src="https://i.imgur.com/izGdZfo.png"/>
     </a>
 </p>
 
@@ -99,7 +99,7 @@
         <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
     </a>
     <a href="https://eclipse.org/" target="_blank">
-        <img src="https://i.imgur.com/JUk1HNk.png"/>
+        <img src="https://i.imgur.com/73MxPH8.png"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
         <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
