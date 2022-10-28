@@ -48,6 +48,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Lua Projects**
 
+<br>
+<br>
+
 ## 🚀 Languages and Tools I use:
 
 <br>
