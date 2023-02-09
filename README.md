@@ -117,7 +117,7 @@
         <img src="https://i.imgur.com/JOKcWYf.png"/>
     </a>
     <a href="https://www.autodesk.de/products/3ds-max/overview" target="_blank">
-        <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-3dsmax/responsive-center/overview-2017/3ds-max-2017-lockup-673x74.png"/>
+        <img src="https://i.imgur.com/fDBXnMV.png"/>
     </a>
 </p>
 
