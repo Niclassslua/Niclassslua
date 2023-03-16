@@ -3,15 +3,6 @@
 <br>
 <br>
 <br>
-<br>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
-</p>
-
-<br>
-<br>
-<br>
 
 <b>
     <h3 align="center">I am a Developer from Germany 🇩🇪</h3>
@@ -43,6 +34,11 @@
     </a>
 </p>
 
+<br>
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
+</p>
 <br>
 <br>
 <br>
