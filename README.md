@@ -20,7 +20,9 @@
 
 <br>
 <br>
-[!(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
+</p>
 <br>
 <br>
 <br>
