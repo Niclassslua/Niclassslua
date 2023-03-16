@@ -157,7 +157,7 @@
 
 <p align="center">
     <a href="https://github.com/Niclassslua/github-readme-activity-graph">
-        <img alt="Niclassslua's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Niclassslua&bg_color=0D1118&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+        <img alt="Niclassslua's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Niclassslua&theme=github-compact"/>
     </a>
 </p>
 
