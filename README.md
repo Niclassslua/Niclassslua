@@ -12,7 +12,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
 </p>
 <br>
 <br>
@@ -37,7 +37,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
 </p>
 <br>
 <br>
