@@ -20,9 +20,9 @@
 
 <br>
 <br>
-<div>
+<img>
     [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
+</img>
 <br>
 <br>
 <br>
