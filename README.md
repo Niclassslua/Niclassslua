@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<img align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dark)](https://github.com/piyushsuthar/github-readme-quotes
+<img align="center" src="(https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dark">
 
 <br>
 <br>
