@@ -17,6 +17,12 @@
     <h3 align="center">I am a Developer from Germany 🇩🇪 </h3>
 </b>
 
+
+<br>
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <br>
 <br>
 <br>
