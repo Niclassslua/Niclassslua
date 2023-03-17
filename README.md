@@ -46,7 +46,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a studying Cybersecurity
+- 🎓 I'm studying Cybersecurity
 
 - 🌱 Because of my studies I'm currently learning **Java**
 
