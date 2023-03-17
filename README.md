@@ -46,7 +46,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Java**
+- 🎓 I'm a studying Cybersecurity
+
+- 🌱 Because of my studies I'm currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Open Source Lua Projects**
 
