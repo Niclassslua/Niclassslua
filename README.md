@@ -109,7 +109,7 @@
         <img src="https://i.imgur.com/73MxPH8.png"/>
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://logonoid.com/images/intellij-idea-logo.png" width="48" height="48"/>
+        <img src="https://appsitory.com/data/windows/icons/intellij-idea/intellij-idea.png" width="48" height="48"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
         <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
