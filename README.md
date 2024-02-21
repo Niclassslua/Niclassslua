@@ -117,14 +117,14 @@
     <a href="https://www.maxon.net/cinema-4d/" target="_blank">
         <img src="https://i.imgur.com/bfFeTAu.png"/>
     </a>
+    <a href="https://www.autodesk.de/products/3ds-max/overview" target="_blank">
+        <img src="https://i.imgur.com/fDBXnMV.png"/>
+    </a>
     <a href="https://discord.gg/BxfKHkk/" target="_blank">
         <img src="https://i.imgur.com/sVFn4xy.png"/>
     </a>
     <a href="https://zmodeler3.com/index.php/" target="_blank">
         <img src="https://i.imgur.com/JOKcWYf.png"/>
-    </a>
-    <a href="https://www.autodesk.de/products/3ds-max/overview" target="_blank">
-        <img src="https://i.imgur.com/fDBXnMV.png"/>
     </a>
     <a href="https://www.wireshark.org/" target="_blank">
         <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d301f744-8a3e-450f-9cb8-c9c3fb7cab48.png" width="48" height="48"/>
