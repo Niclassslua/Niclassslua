@@ -55,6 +55,43 @@
 <br>
 <br>
 
+## 🛠 M5Stack Core2 "Flipper Zero Killer" Project
+
+<p align="left">
+    <img width="30%" height="auto" src="https://static-cdn.m5stack.com/resource/docs/products/core/core2/core2_01.webp" alt="M5Stack Core2 Project Screenshot"/>
+</p>
+
+<br>
+
+### Project Overview:
+
+I'm working on an ambitious project utilizing the **[M5Stack Core2](https://docs.m5stack.com/en/core/core2)** to develop a "Flipper Zero Killer" – a multifunctional device aimed at cybersecurity professionals and enthusiasts. The goal is to recreate and extend the functionalities of the Flipper Zero, transforming the M5Stack Core2 into a powerful tool for penetration testing and various security-related tasks.
+
+<br>
+
+### Key Features:
+- **Sub-GHz RF Transceiver**: Capture, transmit, and analyze RF signals across different frequency bands for tasks like replay attacks and signal manipulation.
+- **NFC/RFID Capabilities**: Read, emulate, and clone RFID/NFC tags, with features like brute-force attacks on access control systems.
+- **Infrared Transceiver**: Record and replay IR signals, allowing control of devices such as TVs, air conditioners, and other IR-enabled gadgets.
+- **Custom UI Development**: Using the **TFT_eSPI** library, I'm designing an intuitive and visually appealing user interface that includes icons, custom fonts, and graphical elements, enhancing the usability of the device.
+- **GPIO Control**: Utilize the M5Stack Core2’s GPIO pins for external device interaction and analysis, enabling hardware-based attacks and testing.
+- **Extensibility**: Support for additional modules such as Wi-Fi and Bluetooth to extend the device's capabilities according to specific security needs.
+
+<br>
+
+### Tools and Technologies:
+- **Programming Languages**: C, C++, (MicroPython, Lua)
+- **Development Environment**: CLion for advanced project management and development
+- **Libraries**: TFT_eSPI for graphical display, Arduino Core for ESP32 for controlling the M5Stack Core2
+
+<br>
+
+### Project Goal:
+This project aims to create a versatile, user-friendly, and powerful tool for cybersecurity experts. The integration of advanced features and a responsive UI will make it a formidable device for conducting various security tasks, from wireless signal analysis to physical access testing.
+
+<br>
+<br>
+
 ## 🚀 Languages and Tools I use:
 
 <br>
@@ -88,6 +125,12 @@
     <a href="https://www.java.com/" target="_blank">
         <img src="https://i.imgur.com/izGdZfo.png"/>
     </a>
+    <a href="https://www.learn-c.org/" target="_blank">
+        <img src="https://img.icons8.com/?size=48&id=40670&format=png&color=000000"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.icons8.com/?size=48&id=40669&format=png&color=000000"/>
+    </a>
 </p>
 
 <!-- <p align="center">
@@ -105,11 +148,26 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
     </a>
-    <a href="https://eclipse.org/" target="_blank">
-        <img src="https://i.imgur.com/73MxPH8.png"/>
-    </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://appsitory.com/data/windows/icons/intellij-idea/intellij-idea.png" width="48" height="48"/>
+        <img src="https://resources.jetbrains.com/storage/logos/web/intellij-idea/intellij-idea.svg" width="48" height="48"/>
+    </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+        <img src="https://resources.jetbrains.com/storage/logos/web/webstorm/webstorm.svg" width="48" height="48"/>
+    </a>
+    <a href="https://www.jetbrains.com/clion/" target="_blank">
+        <img src="https://resources.jetbrains.com/storage/logos/web/clion/clion.svg" width="48" height="48"/>
+    </a>
+    <a href="https://www.virtualbox.org/" target="_blank">
+        <img src="https://i.imgur.com/c4hwTKP.png" width="48" height="48"/>
+    </a>
+    <a href="https://www.kali.org/" target="_blank">
+        <img src="https://i.imgur.com/ASRmLSa.png" width="48" height="48"/>
+    </a>
+    <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d301f744-8a3e-450f-9cb8-c9c3fb7cab48.png" width="48" height="48"/>
+    </a>
+    <a href="https://nmap.org/" target="_blank">
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank">
         <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
@@ -120,17 +178,11 @@
     <a href="https://www.autodesk.de/products/3ds-max/overview" target="_blank">
         <img src="https://i.imgur.com/fDBXnMV.png"/>
     </a>
-    <a href="https://discord.gg/BxfKHkk/" target="_blank">
+    <a href="https://discord.gg/UuEaRfy" target="_blank">
         <img src="https://i.imgur.com/sVFn4xy.png"/>
     </a>
     <a href="https://zmodeler3.com/index.php/" target="_blank">
         <img src="https://i.imgur.com/JOKcWYf.png"/>
-    </a>
-    <a href="https://www.wireshark.org/" target="_blank">
-        <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d301f744-8a3e-450f-9cb8-c9c3fb7cab48.png" width="48" height="48"/>
-    </a>
-    <a href="https://nmap.org/" target="_blank">
-        <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48"/>
     </a>
 </p>
 
