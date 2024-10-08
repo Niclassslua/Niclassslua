@@ -50,7 +50,7 @@
 
 - 🌱 Because of my studies I'm currently learning the programming language **[Java](https://www.java.com/)** and how to use **[Kali Linux](https://www.kali.org/)** for Penetration Testing
 
-- 👯 I’m looking to collaborate on **Open Source Lua Projects**
+- 🏠 I’m diving into Homebridge plugin development to expand my smart home projects
 
 <br>
 <br>
