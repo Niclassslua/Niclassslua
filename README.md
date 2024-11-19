@@ -131,6 +131,9 @@ This project aims to create a versatile, user-friendly, and powerful tool for cy
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://img.icons8.com/?size=48&id=40669&format=png&color=000000"/>
     </a>
+    <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="https://img.icons8.com/?size=48&id=Xf1sHBmY73hA&format=png&color=000000"/>
+    </a>
 </p>
 
 <!-- <p align="center">
