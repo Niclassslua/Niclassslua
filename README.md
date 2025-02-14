@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e780f4c-c221-4a25-8270-5edf9d6446fe" alt="Header" style="width:100%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/08f87a2a-5c76-4eea-a98f-ba8e020f3563" alt="Header" style="width:100%; height:auto;">
 </p>
 
 <br>
