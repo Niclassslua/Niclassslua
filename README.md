@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ca6828f-b24c-444a-b0cc-36dd16b1f28f" style="width:60%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/9ca6828f-b24c-444a-b0cc-36dd16b1f28f" style="width:50%; height:auto;">
 </p>
 
 ![vbtest2](https://github.com/user-attachments/assets/13b226f0-daca-4ce0-a684-d47ece48240d)
