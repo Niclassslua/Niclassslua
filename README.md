@@ -3,6 +3,13 @@
   <img src="https://github.com/user-attachments/assets/76701c40-a3f3-49fc-bedf-514bfa9e02e7" style="width:100%; height:auto;">
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/Niclassslua/TaskFlow">
+    <img src="https://github.com/user-attachments/assets/ed5d7cc2-91d2-4aea-b415-1bc5f1b55da7" width="70%">
+  </a>
+</p>
 
 <br>
 
