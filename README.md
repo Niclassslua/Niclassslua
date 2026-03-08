@@ -1,17 +1,20 @@
-<!-- Header Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76701c40-a3f3-49fc-bedf-514bfa9e02e7" style="width:100%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/e4df5067-3531-43fc-8154-8e6c8c707bc6" style="width:100%; height:auto;">
 </p>
 
 <br>
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm studying Cyber Security
+- 🎓 Studying Cyber Security — and building things on the side whenever I get the chance
 
-- 🌱 Because of my studies I'm currently learning the programming language **[Java](https://www.java.com/)** and how to use **[Kali Linux](https://www.kali.org/)** for Penetration Testing
+- 🔐 My studies got me a bit deep into networks, protocols, and system security,
+  which I've started applying in my own projects and smart home setup (lots of MQTT involved)
+  
+- 🍎 Lately spending a lot of time with Swift and Xcode
 
-- 🏠 I’m diving into Homebridge plugin development to expand my smart home projects
+- 🤖 Currently exploring agentic coding and how to actually use AI well in a dev workflow,
+  not just as a autocomplete
 
 <br>
 <br>
