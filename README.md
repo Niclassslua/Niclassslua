@@ -24,11 +24,8 @@
 <br>
 <br>
 
-![vbtest](https://github.com/user-attachments/assets/414968c1-4439-4145-a18b-bc0c3a685bc2)
+![Cyber Hacking Hub + Modern Web Factory](https://github.com/user-attachments/assets/82c12633-7071-417a-a9d4-9f673369f166)
 
+![Syntax Society](https://github.com/user-attachments/assets/3eb5a670-77c1-477d-a514-f46405ba1125)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ca6828f-b24c-444a-b0cc-36dd16b1f28f" style="width:50%; height:auto;">
-</p>
-
-<img width="2400" height="885" alt="productivity_core_code" src="https://github.com/user-attachments/assets/d277a8a7-14b7-4316-9990-4ec462fd3dba" />
+![psccztest](https://github.com/user-attachments/assets/9bdbae7a-61b8-4eaa-800c-ac8efc26df04)
